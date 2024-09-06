@@ -1,0 +1,35 @@
+_repo: Lettres-galantes-du-chevalier-de-Fagnes_74329
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ginisty, Paul
+    birthdate: 1855
+    deathdate: 1932
+    gutenberg_agent_id: '57449'
+    url: http://www.gutenberg.org/2009/agents/57449
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_Ginisty
+    - https://fr.wikipedia.org/wiki/Paul_Ginisty
+description: ''
+gutenberg_issued: '2024-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74329'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k9771648n
+pgterms:marc905: 20240409124815ginisty
+pgterms:marc906: '1928'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bÉditions Baudinière, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epistolary fiction'
+- !lcsh 'France -- History -- Louis XV, 1715-1774 -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Lettres galantes du chevalier de Fagnes
+url: http://www.gutenberg.org/ebooks/74329
