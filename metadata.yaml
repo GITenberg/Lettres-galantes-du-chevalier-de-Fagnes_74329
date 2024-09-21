@@ -1,5 +1,8 @@
 _repo: Lettres-galantes-du-chevalier-de-Fagnes_74329
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74329-h/images/cover.jpg
 creator:
   author:
     agent_name: Ginisty, Paul
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paul_Ginisty
     - https://fr.wikipedia.org/wiki/Paul_Ginisty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74329#Lettres-galantes-du-chevalier-de-Fagnes
 gutenberg_issued: '2024-08-29'
 gutenberg_type: Text
 identifiers:
